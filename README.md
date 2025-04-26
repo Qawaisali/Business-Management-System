@@ -70,7 +70,7 @@ LinkedIn: https://www.linkedin.com/in/awais-ali-110429209/
 Distributed under the MIT License.
 See LICENSE for more information.
 
-🎯 Screenshots (Optional)
+# 🎯 Screenshots
 
 ![Screenshot (43)](https://github.com/user-attachments/assets/29cdfc47-1450-4bf6-8bc4-4d2e27d5f9af)
 ![Screenshot (42)](https://github.com/user-attachments/assets/90e1dc12-9557-4326-afcb-a8f45d6099a1)
